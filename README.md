@@ -1,6 +1,4 @@
-<h3>Moitinho, quem vos fala 👋</h3>
-
-## Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<h3> Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h3>
 [![Github Badge](https://img.shields.io/badge/-Gi
 
 Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em desenvolvimento de Softwares
