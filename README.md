@@ -10,6 +10,6 @@
 <p></p>
 
 
-<h3>Technologies & Tools</h3><hr></hr>
+🚀💻<h3>Technologies & Tools</h3><hr></hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
 
