@@ -1,16 +1,6 @@
-<h3> Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h3>
-<a href="https://github.com/rikeprado"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p></p>
 
-
-
-Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em desenvolvimento de Softwares.
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
-
-
-<h1 align="center">Hi 👋, I'm Rike</h1>
-<h3 align="center">Desenvolvedor Full-Stack Web com experiência em desenvolvimento de Softwares</h3>
+<h1>Hi 👋, I'm Rike</h1>
+<h3>Desenvolvedor Full-Stack Web com experiência em desenvolvimento de Softwares</h3>
 
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
@@ -24,3 +14,23 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+
+
+
+
+
+
+
+
+
+
+<h3> Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h3>
+<a href="https://github.com/rikeprado"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p></p>
+
+
+
+Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em desenvolvimento de Softwares.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
+
