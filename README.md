@@ -14,6 +14,11 @@
 
 
 ## 🚀💻 Technologies and Tools
+
+<ul>
+  <li>Front-End</li>
+</ul>
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
