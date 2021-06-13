@@ -40,7 +40,7 @@
   </p>
 </ul>
 <ul>
-  <strong>Banco de Dados</strong><br/>
+  <strong>Database</strong><br/>
   <p>
     <a href="#">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
