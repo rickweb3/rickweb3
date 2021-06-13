@@ -5,9 +5,9 @@
 <p>I currently work at Serpro <a href="google.com">SERPRO</a></p>
 <p>I'm learning at the moment ReactNative, ReactJS, Deno</p>
 
-
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/rikeprado)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+
 
 
 
