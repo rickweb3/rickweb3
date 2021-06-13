@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://github.com/rikeprado/)](https://www.linkedin.com/in/https://github.com/rikeprado/)
 
 ### About me
-I'm a {backend, frontend} developer
+I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
 <p>Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 <p>I currently work at Serpro <a href="google.com">SERPRO</a></p>
 <p>I'm learning at the moment Laravel, PHP, Javascript</p>
