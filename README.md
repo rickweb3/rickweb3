@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/https://github.com/rikeprado)](https://github.com/https://github.com/rikeprado)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://github.com/rikeprado/)](https://www.linkedin.com/in/https://github.com/rikeprado/)
 
-## About me
+### About me
 👨‍💻 I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
 
 [comment]: <> (<p>I currently work at Serpro <a href="google.com">SERPRO</a></p>)
@@ -15,7 +15,7 @@
 
 
 
-## 🚀💻 Skills
+### 🚀💻 Skills
 <ul>
   <strong>Back-End</strong><br/>
   <p>
