@@ -8,9 +8,7 @@ Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em
 
 
 
-<a href="https://github.com/rikeprado/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rikeprado&repo=github-readme-stats" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
 
 
 
