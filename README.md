@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   </p>
 </ul>
-
+<br />
 
 ## ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
