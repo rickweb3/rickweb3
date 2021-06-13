@@ -16,7 +16,7 @@
 ## 🚀💻 Technologies and Tools
 
 <ul>
-  <h3><strong>Front-End</strong></h3>
+  <li><strong>Front-End</strong></li>
 </ul>
 
 <p>
