@@ -1,6 +1,7 @@
 <h3> Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h3>
-<a href="https://github.com/rikeprado"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>a\
-<br/>
+<a href="https://github.com/rikeprado"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p></p>
+
+
 
 Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em desenvolvimento de Softwares.
 
