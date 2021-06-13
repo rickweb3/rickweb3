@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://github.com/rikeprado/)](https://www.linkedin.com/in/https://github.com/rikeprado/)
 
 ### About me
-🔭 I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
+👨‍💻 I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
 
 [comment]: <> (<p>I currently work at Serpro <a href="google.com">SERPRO</a></p>)
 
