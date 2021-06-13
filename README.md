@@ -13,7 +13,7 @@
 
 
 
-## 🚀💻 Technologies and Skills
+## 🚀💻 Skills
 <ul>
   <li><strong>Back-End</strong><br/></li>
   <p>
