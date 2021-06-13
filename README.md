@@ -7,6 +7,12 @@ Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rikeprado)](https://github.com/rikeprado)
 
 
-## Languages and Tools
+
+<a href="https://github.com/rikeprado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rikeprado&repo=github-readme-stats" />
+</a>
+
+
+
 [![Rikeprado GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado)](https://github.com/rikeprado/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikeprado&layout=compact)](https://github.com/rikeprado/github-readme-stats)
+
