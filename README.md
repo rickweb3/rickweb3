@@ -14,7 +14,6 @@
 
 
 ## 🚀💻 Technologies and Tools
-
 <ul>
   <li><strong>Back-End</strong><br/></li>
   <p>
@@ -24,8 +23,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </ul>
-
-
 <ul>
   <li><strong>Front-End</strong><br/></li>
   <p>
@@ -37,8 +34,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 </ul>
-
-
 <ul>
   <li><strong>Banco de Dados</strong><br/></li>
   <p>
@@ -47,12 +42,8 @@
 </ul>
 
 
-
-
-
-
-
-
+<br />
+<br />
 ## ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
 
