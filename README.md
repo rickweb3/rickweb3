@@ -1,3 +1,5 @@
+<p>Moitinho, quem vos fala 👋</p>
+
 ## Hello World, Rike na área! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 [![Github Badge](https://img.shields.io/badge/-Gi
 
