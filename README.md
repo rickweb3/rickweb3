@@ -8,7 +8,7 @@ Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em
 
 
 <h1 align="center">Hi 👋, I'm Rike</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Desenvolvedor Full-Stack Web com experiência em desenvolvimento de Softwares</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
