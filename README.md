@@ -12,11 +12,13 @@
 
 
 
+
 ## 🚀💻 Technologies and Tools
 
-Back-end: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-Front-end:
-Banco de dados:
+Back-end: [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />]
+
+<br/>Front-end:
+<br/>Banco de dados:
 
 
 
