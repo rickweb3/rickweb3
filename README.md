@@ -8,7 +8,7 @@ I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
 
 [comment]: <> (<p>I currently work at Serpro <a href="google.com">SERPRO</a></p>)
 
-<p>I'm learning at the moment Laravel, PHP, Javascript</p>
+🌱<p>I'm learning at the moment Laravel, PHP, Javascript</p>
 
 
 
