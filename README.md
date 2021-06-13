@@ -14,6 +14,8 @@
 
 <p>🌱 I'm learning at the moment Laravel, PHP, Javascript</p>
 
+<p>🎯 I study English every day</p>
+
 <br />
 
 ## 🚀 Skills
