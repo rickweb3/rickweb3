@@ -11,6 +11,3 @@ Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
 
 
-
-[![Rikeprado GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado)](https://github.com/rikeprado/github-readme-stats)
-
