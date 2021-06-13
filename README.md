@@ -9,3 +9,4 @@ Olá, sou o Henrique Prado desenvolvedor Full-Stack Web e possuo experiência em
 
 ## Languages and Tools
 [![Rikeprado GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado)](https://github.com/rikeprado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikeprado&layout=compact)](https://github.com/rikeprado/github-readme-stats)
