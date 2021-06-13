@@ -24,7 +24,7 @@
   </p>
 </ul>
 <ul>
-  <li><strong>Front-End</strong><br/></li>
+  <strong>Front-End</strong><br/>
   <p>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -36,7 +36,7 @@
   </p>
 </ul>
 <ul>
-  <li><strong>Banco de Dados</strong><br/></li>
+  <strong>Banco de Dados</strong><br/>
   <p>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
