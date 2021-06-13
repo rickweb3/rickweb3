@@ -1,6 +1,8 @@
 
 <h1>Hi 👋, I'm Rike</h1>
-<h3>Desenvolvedor Full-Stack Web com experiência em desenvolvimento de Softwares</h3>
+<p>Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<p>I currently work at Serpro SERPRO</p>
+<p>I'm learning at the moment ReactNative, ReactJS, Deno</p>
 
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
