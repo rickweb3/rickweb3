@@ -5,7 +5,7 @@
 <p>I'm learning at the moment ReactNative, ReactJS, Deno</p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
-
+<p></p>
 
 ## Languages and Tools
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikeprado&show_icons=true&theme=tokyonight)
