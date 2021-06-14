@@ -2,6 +2,7 @@
 # Hi, I'm Henrique! :D
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rickweb3)](https://github.com/rickweb3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickweb)](https://www.linkedin.com/in/rickweb)
+[![Gmail Badge](https://img.shields.io/badge/-henrique.devweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.devweb@gmail.com)](mailto:henrique.devweb@gmail.com)
 
 
 <br />
