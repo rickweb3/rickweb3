@@ -9,11 +9,9 @@
 
 
 ## 💬 About me
-👨‍💻 I'm a {backend, frontend} developer... Lover of Technology and Coding ♥
-
-[comment]: <> (<p>I currently work at Serpro <a href="google.com">SERPRO</a></p>)
-
 <p>🎓 Bachelor's Degree in Information Systems at the Federal University of Sergipe</p>
+
+<p>👨‍💻 I'm a {backend, frontend} developer... Lover of Technology and Coding ♥</p>
 
 <p>🌱 I seek to enhance my programming skills every day! See which technologies are listed in the skills section. </p>
 
