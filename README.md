@@ -21,6 +21,15 @@
 
 ## 🚀 Skills
 <ul>
+  <strong>Version Control</strong><br/>
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white /"
+    </a>
+  </p>
+</ul>
+<ul>
   <strong>Back-End</strong><br/>
   <p>
     <a href="#">
@@ -52,17 +61,7 @@
     </a>
   </p>
 </ul>
-<ul>
-  <strong>Others</strong><br/>
-  <p>
-    <a href="#">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      
-    </a>
-  </p>
-</ul>
-
-<br />
+<br/>
 
 ## ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickweb3&show_icons=true&theme=tokyonight)
