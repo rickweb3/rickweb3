@@ -15,7 +15,7 @@
 
 <p>🌱 I seek to enhance my programming skills every day, specifically in the following technologies: Git, PHP, JavaScript, SQL, PostgreSQL, Laravel, ReactJS, VueJS.</p>
 
-<p>🎯 I study the English language every day with the goal of achieving fluency, immersing myself completely in the language.<br>Level: Intermediate</p>
+<p>🎯 I study the English language every day with the goal of achieving fluency, immersing myself completely in the language. Level: Intermediate</p>
 
 <br />
 
